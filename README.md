@@ -15,6 +15,11 @@ A 2D fighting game prototype built using **Python (Pygame)** with a **C++ launch
 
 ---
 
+## 📸 Screenshots
+
+![Street Duel Gameplay](Screenshot.jpg)
+
+
 ## 🧪 Controls
 
 **Player 1 (Left):**
